@@ -1,16 +1,14 @@
 {
-  "name": "Node_protect_eyes",
+  "name": "initial",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "repository": "git@github.com:KaJurczak/Node_protect_eyes.git",
-  "author": "",
+  "main": "index.js",
   "license": "MIT",
-  "private": true,
   "scripts": {
     "start": "electron main.js"
   },
   "dependencies": {
-    "electron": "5.0.6"
+    "electron": "^5.0.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
   }
 }
